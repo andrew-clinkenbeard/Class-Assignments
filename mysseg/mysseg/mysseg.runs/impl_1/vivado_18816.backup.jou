@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Sep  9 16:02:15 2021
+# Process ID: 18816
+# Current directory: C:/Users/andrew_clinkenbeard1/Box/SOC/mysseg/mysseg.runs/impl_1
+# Command line: vivado.exe -log ssegmain.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ssegmain.tcl -notrace
+# Log file: C:/Users/andrew_clinkenbeard1/Box/SOC/mysseg/mysseg.runs/impl_1/ssegmain.vdi
+# Journal file: C:/Users/andrew_clinkenbeard1/Box/SOC/mysseg/mysseg.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ssegmain.tcl -notrace
